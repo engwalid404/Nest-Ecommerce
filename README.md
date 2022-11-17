@@ -52,5 +52,5 @@ nest website have many advantages and many department you can see throuth live d
 # Time
 .Nest website had taken 1 month to be completed
 
-Live Demo (https://engwalid404.github.io/Nest-Ecommerce/)
-main project ()
+- Live Demo (https://engwalid404.github.io/Nest-Ecommerce/)
+- main project (https://github.com/engwalid404/Nest-Ecommerce)
